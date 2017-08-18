@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>删除</title>
+</head>
+<body>
+    <form method="post" align="center">
+        {% csrf_token %}
+        <input type="radio" name="item" value="id">按考号<br>
+        <input type="radio" name="item" value="name">按姓名<br>
+        <input type="text" name="key"><br>
+        {{ warning }}<br>
+        <br>
+        <input type="submit" value="确认"><br>
+    </form>
+    <div class="text" style=" text-align:center;">
+        <a href="/add">添加</a>&nbsp;<a href="/rank">排名</a>&nbsp;<a href="/query">查询</a>&nbsp;删除&nbsp;<a href="/modify">修改</a>
+    </div>
+</body>
+</html>

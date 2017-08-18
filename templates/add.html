@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>添加</title>
+</head>
+<body>
+    <form method="post" align="center">
+        {% csrf_token %}
+        考号：<input type="text" name="id"><br>
+        姓名：<input type="text" name="name"><br>
+        语文：<input type="text" name="chinese"><br>
+        数学：<input type="text" name="math"><br>
+        英语：<input type="text" name="english"><br>
+        物理：<input type="text" name="physics"><br>
+        化学：<input type="text" name="chemistry"><br>
+        {{ warning }}<br>
+        <br>
+        <input type="submit" value="添加"> <input type="reset" value="重置"><br>
+    </form>
+    <div class="text" style=" text-align:center;">
+        添加&nbsp;<a href="/rank">排名</a>&nbsp;<a href="/query">查询</a>&nbsp;<a href="/delete">删除</a>&nbsp;<a href="/modify">修改</a>
+    </div>
+</body>
+</html>

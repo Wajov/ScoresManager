@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>排名</title>
+</head>
+<body>
+    <form method="post" align="center">
+        {% csrf_token %}
+        <input type="radio" name="item" value="chinese">按语文成绩<br>
+        <input type="radio" name="item" value="math">按数学成绩<br>
+        <input type="radio" name="item" value="english">按英语成绩<br>
+        <input type="radio" name="item" value="physics">按物理成绩<br>
+        <input type="radio" name="item" value="chemistry">按化学成绩<br>
+        <input type="radio" name="item" value="total">按总分<br>
+        ≥<input type="text" name="l"><br>
+        ≤<input type="text" name="r"><br>
+        {{ warning }}<br>
+        <br>
+        <input type="submit" value="确认"><br>
+        <br>
+    </form>
+    <table border=1 align="center">
+        <tr><th>考号</th><th>姓名</th><th>语文</th><th>数学</th><th>英语</th><th>物理</th><th>化学</th><th>总分</th></tr>
+        {% for t in students %}
+            <tr><td>{{ t.id }}</td><td>{{ t.name }}</td><td>{{ t.chinese }}</td><td>{{ t.math }}</td><td>{{ t.english }}</td><td>{{ t.physics }}</td><td>{{ t.chemistry }}</td><td>{{ t.total }}</td></tr>
+        {% endfor %}
+    </table>
+    <div class="text" style=" text-align:center;">
+        <a href="/add">添加</a>&nbsp;排名&nbsp;<a href="/query">查询</a>&nbsp;<a href="/delete">删除</a>&nbsp;<a href="/modify">修改</a>
+    </div>
+</body>
+</html>

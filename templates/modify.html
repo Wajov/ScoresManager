@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>修改</title>
+</head>
+<body>
+    <form method="post" align="center">
+        {% csrf_token %}
+        <input type="radio" name="item" value="id">按考号<br>
+        <input type="radio" name="item" value="name">按姓名<br>
+        <input type="text" name="key"><br>
+        修改后的语文成绩：<input type="text" name="chinese"><br>
+        修改后的数学成绩：<input type="text" name="math"><br>
+        修改后的英语成绩：<input type="text" name="english"><br>
+        修改后的物理成绩：<input type="text" name="physics"><br>
+        修改后的化学成绩：<input type="text" name="chemistry"><br>
+        {{ warning }}<br>
+        <br>
+        <input type="submit" value="确认"><br>
+    </form>
+    <div class="text" style=" text-align:center;">
+        <a href="/add">添加</a>&nbsp;<a href="/rank">排名</a>&nbsp;<a href="/query">查询</a>&nbsp;<a href="/delete">删除</a>&nbsp;修改
+    </div>
+</body>
+</html>
