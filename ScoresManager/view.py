@@ -71,7 +71,7 @@ def rank(request):
                     temp = tmp[6]
                 elif t["item"] == "total":
                     temp = tmp[7]
-                if temp >= int(t["l"]) and temp <= int(t["r"]):
+                if int(t["l"]) <= temp <= int(t["r"]):
                     temp = student(tmp[0], tmp[1], tmp[2], tmp[3], tmp[4], tmp[5], tmp[6])
                     content["students"].append(temp)
             if t["item"] == "chinese":
