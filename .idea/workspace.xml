@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50436c43-4291-4a3f-ac14-8911ccee5420" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ScoresManager.iml" afterPath="$PROJECT_DIR$/.idea/ScoresManager.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ScoresManager/view.py" afterPath="$PROJECT_DIR$/ScoresManager/view.py" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change beforePath="$PROJECT_DIR$/templates/add.html" afterPath="$PROJECT_DIR$/templates/add.html" />
-      <change beforePath="$PROJECT_DIR$/templates/delete.html" afterPath="$PROJECT_DIR$/templates/delete.html" />
-      <change beforePath="$PROJECT_DIR$/templates/modify.html" afterPath="$PROJECT_DIR$/templates/modify.html" />
-      <change beforePath="$PROJECT_DIR$/templates/query.html" afterPath="$PROJECT_DIR$/templates/query.html" />
-      <change beforePath="$PROJECT_DIR$/templates/rank.html" afterPath="$PROJECT_DIR$/templates/rank.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,96 +30,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="view.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="view.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ScoresManager/view.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="75" column="39" lean-forward="false" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
+            <state relative-caret-position="437">
+              <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
-                <marker date="1531268491279" expanded="true" signature="1367:1435" ph="insert into students... " />
-                <marker date="1531268491279" expanded="true" signature="1367:1476" ph="insert into students... " />
-                <marker date="1531268491279" expanded="true" signature="1367:1498" ph="insert into students... " />
-                <marker date="1531268491279" expanded="true" signature="1367:1520" ph="insert into students... " />
-                <marker date="1531268491279" expanded="true" signature="1367:1544" ph="insert into students... " />
-                <marker date="1531268491279" expanded="true" signature="1367:1563" ph="insert into students... " />
-                <marker date="1531268491279" expanded="true" signature="2132:2154" ph="select * fro... students" />
-                <marker date="1531268491279" expanded="true" signature="4090:4112" ph="select * fro... students" />
-                <marker date="1531268491279" expanded="true" signature="4984:5034" ph="delete from " />
-                <marker date="1531268491279" expanded="true" signature="5104:5156" ph="delete from " />
-                <marker date="1531268491279" expanded="true" signature="6206:6236" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6206:6285" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6317:6344" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6317:6391" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6423:6453" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6423:6472" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6423:6503" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6535:6584" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6535:6615" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6647:6679" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6647:6731" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6763:6808" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6763:6828" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6763:6839" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6909:6939" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="6909:6991" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="7023:7099" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="7131:7213" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="7245:7327" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="7359:7445" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="7477:7555" ph="update stude... " />
-                <marker date="1531268491279" expanded="true" signature="7534:7555" ph="update stude... " />
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1531273123433" expanded="true" signature="1330:1398" ph="insert into students... " />
+                <marker date="1531273123433" expanded="true" signature="1330:1439" ph="insert into students... " />
+                <marker date="1531273123433" expanded="true" signature="1330:1461" ph="insert into students... " />
+                <marker date="1531273123433" expanded="true" signature="1330:1483" ph="insert into students... " />
+                <marker date="1531273123433" expanded="true" signature="1330:1507" ph="insert into students... " />
+                <marker date="1531273123433" expanded="true" signature="1330:1526" ph="insert into students... " />
+                <marker date="1531273123433" expanded="true" signature="2095:2117" ph="select * fro... students" />
+                <marker date="1531273123433" expanded="true" signature="4053:4075" ph="select * fro... students" />
+                <marker date="1531273123433" expanded="true" signature="4947:4997" ph="delete from " />
+                <marker date="1531273123433" expanded="true" signature="5067:5119" ph="delete from " />
+                <marker date="1531273123433" expanded="true" signature="6169:6199" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6169:6248" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6280:6307" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6280:6354" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6386:6416" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6386:6435" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6386:6466" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6498:6547" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6498:6578" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6610:6642" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6610:6694" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6726:6771" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6726:6791" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6726:6802" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6872:6902" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6872:6954" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="6986:7062" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="7094:7176" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="7208:7290" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="7322:7408" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="7440:7518" ph="update stude... " />
+                <marker date="1531273123433" expanded="true" signature="7497:7518" ph="update stude... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/add.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="72" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="delete.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/delete.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modify.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/modify.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="72" lean-forward="false" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="query.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/query.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rank.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/rank.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -150,12 +95,12 @@
         <option value="$PROJECT_DIR$/templates/insert.html" />
         <option value="$PROJECT_DIR$/models/student.py" />
         <option value="$PROJECT_DIR$/ScoresManager/urls.py" />
-        <option value="$PROJECT_DIR$/ScoresManager/view.py" />
         <option value="$PROJECT_DIR$/templates/add.html" />
         <option value="$PROJECT_DIR$/templates/delete.html" />
         <option value="$PROJECT_DIR$/templates/modify.html" />
         <option value="$PROJECT_DIR$/templates/query.html" />
         <option value="$PROJECT_DIR$/templates/rank.html" />
+        <option value="$PROJECT_DIR$/ScoresManager/view.py" />
       </list>
     </option>
   </component>
@@ -189,8 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,22 +146,19 @@
               <item name="ScoresManager" type="462c0819:PsiDirectoryNode" />
               <item name="ScoresManager" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ScoresManager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScoresManager" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="D:/Python/Python36/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -447,18 +387,18 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -515,39 +455,39 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1531268491279" expanded="true" signature="1367:1435" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1476" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1498" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1520" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1544" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1563" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="2132:2154" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4090:4112" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4984:5034" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="5104:5156" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="6206:6236" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6206:6285" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6344" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6391" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6453" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6472" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6503" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6584" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6615" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6679" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6731" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6808" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6828" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6839" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6939" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6991" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7023:7099" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7131:7213" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7245:7327" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7359:7445" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7477:7555" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7534:7555" ph="update stude... " />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1531273123433" expanded="true" signature="1330:1398" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1439" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1461" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1483" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1507" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1526" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="2095:2117" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4053:4075" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4947:4997" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="5067:5119" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="6169:6199" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6169:6248" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6307" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6354" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6416" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6435" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6466" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6547" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6578" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6642" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6694" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6771" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6791" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6802" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6902" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6954" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6986:7062" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7094:7176" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7208:7290" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7322:7408" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7440:7518" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7497:7518" ph="update stude... " />
           </folding>
         </state>
       </provider>
@@ -606,39 +546,39 @@
         <state relative-caret-position="1700">
           <caret line="102" column="47" lean-forward="false" selection-start-line="102" selection-start-column="47" selection-end-line="102" selection-end-column="47" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1531268491279" expanded="true" signature="1367:1435" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1476" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1498" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1520" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1544" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1563" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="2132:2154" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4090:4112" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4984:5034" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="5104:5156" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="6206:6236" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6206:6285" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6344" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6391" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6453" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6472" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6503" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6584" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6615" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6679" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6731" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6808" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6828" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6839" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6939" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6991" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7023:7099" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7131:7213" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7245:7327" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7359:7445" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7477:7555" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7534:7555" ph="update stude... " />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1531273123433" expanded="true" signature="1330:1398" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1439" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1461" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1483" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1507" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1526" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="2095:2117" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4053:4075" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4947:4997" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="5067:5119" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="6169:6199" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6169:6248" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6307" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6354" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6416" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6435" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6466" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6547" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6578" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6642" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6694" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6771" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6791" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6802" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6902" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6954" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6986:7062" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7094:7176" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7208:7290" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7322:7408" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7440:7518" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7497:7518" ph="update stude... " />
           </folding>
         </state>
       </provider>
@@ -697,39 +637,39 @@
         <state relative-caret-position="3026">
           <caret line="178" column="38" lean-forward="false" selection-start-line="178" selection-start-column="38" selection-end-line="178" selection-end-column="38" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1531268491279" expanded="true" signature="1367:1435" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1476" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1498" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1520" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1544" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1563" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="2132:2154" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4090:4112" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4984:5034" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="5104:5156" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="6206:6236" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6206:6285" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6344" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6391" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6453" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6472" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6503" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6584" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6615" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6679" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6731" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6808" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6828" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6839" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6939" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6991" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7023:7099" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7131:7213" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7245:7327" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7359:7445" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7477:7555" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7534:7555" ph="update stude... " />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1531273123433" expanded="true" signature="1330:1398" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1439" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1461" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1483" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1507" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1526" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="2095:2117" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4053:4075" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4947:4997" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="5067:5119" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="6169:6199" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6169:6248" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6307" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6354" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6416" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6435" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6466" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6547" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6578" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6642" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6694" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6771" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6791" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6802" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6902" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6954" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6986:7062" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7094:7176" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7208:7290" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7322:7408" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7440:7518" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7497:7518" ph="update stude... " />
           </folding>
         </state>
       </provider>
@@ -788,39 +728,39 @@
         <state relative-caret-position="2329">
           <caret line="139" column="45" lean-forward="false" selection-start-line="139" selection-start-column="45" selection-end-line="139" selection-end-column="45" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1531268491279" expanded="true" signature="1367:1435" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1476" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1498" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1520" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1544" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1563" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="2132:2154" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4090:4112" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4984:5034" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="5104:5156" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="6206:6236" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6206:6285" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6344" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6391" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6453" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6472" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6503" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6584" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6615" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6679" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6731" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6808" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6828" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6839" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6939" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6991" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7023:7099" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7131:7213" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7245:7327" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7359:7445" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7477:7555" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7534:7555" ph="update stude... " />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1531273123433" expanded="true" signature="1330:1398" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1439" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1461" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1483" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1507" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1526" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="2095:2117" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4053:4075" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4947:4997" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="5067:5119" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="6169:6199" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6169:6248" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6307" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6354" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6416" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6435" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6466" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6547" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6578" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6642" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6694" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6771" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6791" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6802" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6902" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6954" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6986:7062" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7094:7176" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7208:7290" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7322:7408" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7440:7518" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7497:7518" ph="update stude... " />
           </folding>
         </state>
       </provider>
@@ -879,39 +819,39 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1531268491279" expanded="true" signature="1367:1435" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1476" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1498" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1520" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1544" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1563" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="2132:2154" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4090:4112" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4984:5034" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="5104:5156" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="6206:6236" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6206:6285" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6344" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6391" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6453" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6472" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6503" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6584" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6615" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6679" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6731" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6808" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6828" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6839" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6939" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6991" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7023:7099" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7131:7213" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7245:7327" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7359:7445" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7477:7555" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7534:7555" ph="update stude... " />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1531273123433" expanded="true" signature="1330:1398" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1439" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1461" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1483" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1507" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1526" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="2095:2117" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4053:4075" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4947:4997" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="5067:5119" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="6169:6199" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6169:6248" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6307" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6354" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6416" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6435" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6466" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6547" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6578" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6642" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6694" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6771" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6791" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6802" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6902" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6954" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6986:7062" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7094:7176" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7208:7290" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7322:7408" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7440:7518" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7497:7518" ph="update stude... " />
           </folding>
         </state>
       </provider>
@@ -921,39 +861,39 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1531268491279" expanded="true" signature="1367:1435" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1476" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1498" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1520" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1544" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1563" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="2132:2154" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4090:4112" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4984:5034" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="5104:5156" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="6206:6236" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6206:6285" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6344" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6391" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6453" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6472" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6503" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6584" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6615" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6679" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6731" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6808" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6828" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6839" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6939" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6991" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7023:7099" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7131:7213" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7245:7327" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7359:7445" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7477:7555" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7534:7555" ph="update stude... " />
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1531273123433" expanded="true" signature="1330:1398" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1439" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1461" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1483" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1507" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1526" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="2095:2117" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4053:4075" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4947:4997" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="5067:5119" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="6169:6199" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6169:6248" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6307" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6354" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6416" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6435" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6466" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6547" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6578" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6642" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6694" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6771" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6791" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6802" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6902" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6954" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6986:7062" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7094:7176" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7208:7290" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7322:7408" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7440:7518" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7497:7518" ph="update stude... " />
           </folding>
         </state>
       </provider>
@@ -966,102 +906,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/hello.html" />
-    <entry file="file://$PROJECT_DIR$/ScoresManager/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="79" column="29" lean-forward="false" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/Tabel.html" />
     <entry file="file://$PROJECT_DIR$/templates/insert.html" />
-    <entry file="file://$PROJECT_DIR$/ScoresManager/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/student.py" />
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScoresManager/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScoresManager/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScoresManager/view.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="75" column="39" lean-forward="false" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <marker date="1531268491279" expanded="true" signature="1367:1435" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1476" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1498" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1520" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1544" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="1367:1563" ph="insert into students... " />
-            <marker date="1531268491279" expanded="true" signature="2132:2154" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4090:4112" ph="select * fro... students" />
-            <marker date="1531268491279" expanded="true" signature="4984:5034" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="5104:5156" ph="delete from " />
-            <marker date="1531268491279" expanded="true" signature="6206:6236" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6206:6285" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6344" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6317:6391" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6453" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6472" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6423:6503" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6584" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6535:6615" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6679" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6647:6731" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6808" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6828" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6763:6839" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6939" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="6909:6991" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7023:7099" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7131:7213" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7245:7327" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7359:7445" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7477:7555" ph="update stude... " />
-            <marker date="1531268491279" expanded="true" signature="7534:7555" ph="update stude... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="72" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/delete.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,7 +920,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="72" lean-forward="false" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,15 +927,99 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="72" lean-forward="false" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/rank.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="228">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="72" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScoresManager/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScoresManager/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScoresManager/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScoresManager/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScoresManager/view.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1531273123433" expanded="true" signature="1330:1398" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1439" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1461" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1483" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1507" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="1330:1526" ph="insert into students... " />
+            <marker date="1531273123433" expanded="true" signature="2095:2117" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4053:4075" ph="select * fro... students" />
+            <marker date="1531273123433" expanded="true" signature="4947:4997" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="5067:5119" ph="delete from " />
+            <marker date="1531273123433" expanded="true" signature="6169:6199" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6169:6248" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6307" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6280:6354" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6416" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6435" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6386:6466" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6547" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6498:6578" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6642" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6610:6694" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6771" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6791" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6726:6802" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6902" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6872:6954" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="6986:7062" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7094:7176" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7208:7290" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7322:7408" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7440:7518" ph="update stude... " />
+            <marker date="1531273123433" expanded="true" signature="7497:7518" ph="update stude... " />
+          </folding>
         </state>
       </provider>
     </entry>
